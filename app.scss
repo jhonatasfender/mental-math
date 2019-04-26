@@ -1,12 +1,22 @@
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 html {
-  font-size: 10px;
+    font-size: 10px;
 }
 
 html,
 body {
-  height: 100%;
+    height: 100%;
+}
+
+body {
+    div {
+        &.number-one {}
+
+        &.number-two {}
+
+        &.symbol {}
+    }
 }
