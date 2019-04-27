@@ -1,2 +1,2 @@
-*{box-sizing:border-box}html{font-size:10px}html,body{height:100%}
+*{box-sizing:border-box}html{font-size:10px}html,body{height:100%}body div{top:44%;left:46%;position:absolute;font-size:8rem}body div.number-one{top:34%}body div.symbol{left:37%}body div.bar{top:50%;left:34%}body div.bar hr{width:17rem}body div.result{top:57%}body div.result input{border:none;font-size:8rem}
 /*# sourceMappingURL=app.css.map */

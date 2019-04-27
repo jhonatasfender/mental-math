@@ -13,10 +13,37 @@ body {
 
 body {
     div {
-        &.number-one {}
+        top: 44%;
+        left: 46%;
+        position: absolute;
+        font-size: 8rem;
+
+        &.number-one {
+            top: 34%;
+        }
 
         &.number-two {}
 
-        &.symbol {}
+        &.symbol {
+            left: 37%;
+        }
+
+        &.bar {
+            top: 50%;
+            left: 34%;
+
+            hr {
+                width: 17rem;
+            }
+        }
+
+        &.result {
+            top: 57%;
+
+            input {
+                border: none;
+                font-size: 8rem;
+            }
+        }
     }
 }
