@@ -53,10 +53,13 @@
     numberOne.valueRandom = getRandomInt(0, 10);
     numberTwo.valueRandom = getRandomInt(0, 10);
 
+    // numberOne.valueRandom = numberOne.valueRandom - 100
+
     numberOne.element.text(numberOne.valueRandom);
     numberTwo.element.text(numberTwo.valueRandom);
 
     let key = Math.floor(Math.random() * operators.length);
+    // let key = Math.floor(1);
 
     symbol.element.html(operators[key].sign)
     result.answer = operators[key].method(numberOne.valueRandom, numberTwo.valueRandom);
@@ -85,6 +88,12 @@
     }, 3000);
   }
 
+  let typeKeyCodeIsValid = (e) => {
+    return (e.keyCode >= 48 && e.keyCode <= 57) ||
+      (e.keyCode >= 97 && e.keyCode <= 105) ||
+      e.keyCode == 109
+  }
+
   let init = () => {
     initCalc();
 
@@ -92,15 +101,22 @@
     input.focus()
       .keyup((e) => {
         let element = $(e.target);
-        let parent = element.parent();
-        parent.find('div').remove()
-        element.show();
 
-        createElementIfRightOrIncorrect(
-          result.answer.toString().length <= element.val().length &&
-          element.val() == result.answer,
-          element, parent
-        )
+        if (typeKeyCodeIsValid(e)) {
+          let parent = element.parent();
+          parent.find('div').remove()
+          element.show();
+
+          if (result.answer.toString().length <= element.val().length) {
+            createElementIfRightOrIncorrect(
+              result.answer.toString().length <= element.val().length &&
+              element.val() == result.answer,
+              element, parent
+            )
+          }
+        } else {
+          element.val('')
+        }
       })
   }
 
