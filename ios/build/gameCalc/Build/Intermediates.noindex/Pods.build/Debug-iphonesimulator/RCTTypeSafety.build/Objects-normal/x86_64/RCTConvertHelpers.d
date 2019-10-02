@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Folly/folly/Optional.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Folly/folly/Portability.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Folly/folly/CPortability.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Folly/folly/Traits.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Folly/folly/Utility.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

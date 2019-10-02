@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-svg] /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/weberth/.gradle/caches/transforms-2/files-2.1/7fd55a8ea02466d42e519c60977dcb18/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/weberth/.gradle/caches/transforms-2/files-2.1/b24c601229d0959beb7ad5f83bdf3029/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/weberth/.gradle/caches/transforms-2/files-2.1/3960300744691588f455ddf7e1cba704/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/75ec8ea486f523f20142615c3450c3bc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/65850a9c99678694384fcde771a8e526/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/218e8c78c222b26a0fc069c3bff43893/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/512c6adc55737e7fc653d17a13ebadf3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/74d72389443fcd15e4a5fc01479a08a3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/dab0e00ed0e4965fb6f7b4ac8ea3389f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/23a24ea83a095dbd07497bf732e802f3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/b1d56e08b0596ed1ba0af3668b0980eb/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/faa319f1586cdc4ff5f1bf79f87af98f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/001a94cab30d3bd63b30858d3ec8b743/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/97c837347ceb3cb9515a07bf943d70fe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/cf62c274756749b610d13cb7878aa95f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/weberth/.gradle/caches/transforms-2/files-2.1/72cbad617a032618a69938e72bea253e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/1f3ae2c34a8ec4dc68918ec0f1cc4e91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/568f06ca9776cd85dfe2a270821c5e12/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/56b4473b447c31682642829a95417314/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/c07d6f2bac7d78953a4e5f25ae7bec35/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/d1fd4550dc5bfd930f328aec5f97fb7d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/cf8b92038fa2c60ba3e44e2686cd8c46/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/e37b670411ef9945c4d1750f48531328/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/1f2e6337065bb7e08944abd5a453db38/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/weberth/.gradle/caches/transforms-2/files-2.1/b77010b9bd394a324521491cb5e72051/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/c733558a744c1640f9d0adff3d5faa2d/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/4cca2a754426c7af1146847a6f16399f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/52bf306b06a713b95d5bfd7d68d104f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/2e8f12cc527562eeed1d3ca4dcaf49b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/0bc35c81b4099fe5286305b2fe213465/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/6c8990b1d96c2d9308991aab81588a2b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/62cff9a32bbd3b81722624d2fabf8880/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/ef068162ee9bf32ab0d8cefd8de173fe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/fab25d1db8b38c522a12bcd082ad826f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/6dd589f7f7d82e9d7d48c77d5a2e82d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/1384f169d1e04723352c7da668d17030/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/ebceee6f52be3e65325099b40ceba467/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/weberth/.gradle/caches/transforms-2/files-2.1/7fd55a8ea02466d42e519c60977dcb18/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/weberth/.gradle/caches/transforms-2/files-2.1/7fd55a8ea02466d42e519c60977dcb18/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/b1d56e08b0596ed1ba0af3668b0980eb/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/b1d56e08b0596ed1ba0af3668b0980eb/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/weberth/.gradle/caches/transforms-2/files-2.1/b77010b9bd394a324521491cb5e72051/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/weberth/.gradle/caches/transforms-2/files-2.1/b77010b9bd394a324521491cb5e72051/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/c733558a744c1640f9d0adff3d5faa2d/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/c733558a744c1640f9d0adff3d5faa2d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/weberth/.gradle/caches/transforms-2/files-2.1/b77010b9bd394a324521491cb5e72051/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.gamecalc.MainActivity
+ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-svg] /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/weberth/.gradle/caches/transforms-2/files-2.1/7fd55a8ea02466d42e519c60977dcb18/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/weberth/.gradle/caches/transforms-2/files-2.1/7fd55a8ea02466d42e519c60977dcb18/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/weberth/.gradle/caches/transforms-2/files-2.1/b24c601229d0959beb7ad5f83bdf3029/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/weberth/.gradle/caches/transforms-2/files-2.1/b24c601229d0959beb7ad5f83bdf3029/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/weberth/.gradle/caches/transforms-2/files-2.1/3960300744691588f455ddf7e1cba704/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/weberth/.gradle/caches/transforms-2/files-2.1/3960300744691588f455ddf7e1cba704/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/75ec8ea486f523f20142615c3450c3bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/75ec8ea486f523f20142615c3450c3bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/65850a9c99678694384fcde771a8e526/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/65850a9c99678694384fcde771a8e526/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/218e8c78c222b26a0fc069c3bff43893/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/218e8c78c222b26a0fc069c3bff43893/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/512c6adc55737e7fc653d17a13ebadf3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/512c6adc55737e7fc653d17a13ebadf3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/74d72389443fcd15e4a5fc01479a08a3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/74d72389443fcd15e4a5fc01479a08a3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/dab0e00ed0e4965fb6f7b4ac8ea3389f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/dab0e00ed0e4965fb6f7b4ac8ea3389f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/23a24ea83a095dbd07497bf732e802f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/23a24ea83a095dbd07497bf732e802f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/b1d56e08b0596ed1ba0af3668b0980eb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/b1d56e08b0596ed1ba0af3668b0980eb/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/faa319f1586cdc4ff5f1bf79f87af98f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/faa319f1586cdc4ff5f1bf79f87af98f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/001a94cab30d3bd63b30858d3ec8b743/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/001a94cab30d3bd63b30858d3ec8b743/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/97c837347ceb3cb9515a07bf943d70fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/97c837347ceb3cb9515a07bf943d70fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/cf62c274756749b610d13cb7878aa95f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/cf62c274756749b610d13cb7878aa95f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/weberth/.gradle/caches/transforms-2/files-2.1/72cbad617a032618a69938e72bea253e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/weberth/.gradle/caches/transforms-2/files-2.1/72cbad617a032618a69938e72bea253e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/1f3ae2c34a8ec4dc68918ec0f1cc4e91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/1f3ae2c34a8ec4dc68918ec0f1cc4e91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/568f06ca9776cd85dfe2a270821c5e12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/568f06ca9776cd85dfe2a270821c5e12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/56b4473b447c31682642829a95417314/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/56b4473b447c31682642829a95417314/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/c07d6f2bac7d78953a4e5f25ae7bec35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/c07d6f2bac7d78953a4e5f25ae7bec35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/d1fd4550dc5bfd930f328aec5f97fb7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/d1fd4550dc5bfd930f328aec5f97fb7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/cf8b92038fa2c60ba3e44e2686cd8c46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/cf8b92038fa2c60ba3e44e2686cd8c46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/e37b670411ef9945c4d1750f48531328/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/e37b670411ef9945c4d1750f48531328/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/1f2e6337065bb7e08944abd5a453db38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/1f2e6337065bb7e08944abd5a453db38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/weberth/.gradle/caches/transforms-2/files-2.1/b77010b9bd394a324521491cb5e72051/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/weberth/.gradle/caches/transforms-2/files-2.1/b77010b9bd394a324521491cb5e72051/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/c733558a744c1640f9d0adff3d5faa2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/c733558a744c1640f9d0adff3d5faa2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/4cca2a754426c7af1146847a6f16399f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/4cca2a754426c7af1146847a6f16399f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/52bf306b06a713b95d5bfd7d68d104f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/52bf306b06a713b95d5bfd7d68d104f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/2e8f12cc527562eeed1d3ca4dcaf49b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/2e8f12cc527562eeed1d3ca4dcaf49b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/0bc35c81b4099fe5286305b2fe213465/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/0bc35c81b4099fe5286305b2fe213465/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/6c8990b1d96c2d9308991aab81588a2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/6c8990b1d96c2d9308991aab81588a2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/62cff9a32bbd3b81722624d2fabf8880/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/62cff9a32bbd3b81722624d2fabf8880/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/ef068162ee9bf32ab0d8cefd8de173fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/ef068162ee9bf32ab0d8cefd8de173fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/fab25d1db8b38c522a12bcd082ad826f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/fab25d1db8b38c522a12bcd082ad826f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/6dd589f7f7d82e9d7d48c77d5a2e82d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/6dd589f7f7d82e9d7d48c77d5a2e82d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/1384f169d1e04723352c7da668d17030/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/1384f169d1e04723352c7da668d17030/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/ebceee6f52be3e65325099b40ceba467/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/weberth/.gradle/caches/transforms-2/files-2.1/ebceee6f52be3e65325099b40ceba467/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/weberth/Documents/@trabalhos/InsertWeb/jonatas/gameCalc/android/app/src/debug/AndroidManifest.xml:5:22-75
