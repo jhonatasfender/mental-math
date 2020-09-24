@@ -19,6 +19,17 @@
 Esse projeto tem como objetovo ajudar as pessoas a conseguirem realizar calculos matemátematicos de cabeça, por isso foi desenvolvido um app, aonde auxilia no exercicio mental.
 
 ## :hammer: TODO
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+
+- Criar um componente da pontuação
+    - Animações a serem implementadas 
+        - no 60/200 colocar um contador até chegar em 60 e aleterando a visualização para o usuário
+        - a barra de progresso deve acompanhar conforme o valor
+        - a barra de progresso deve ser animada até chegar no valor estabelecido no componente
+- Componentizar os botões de play, trophy e settings
+- Implementar uma altenticação com as rede sociais
+    - login com o google
+    - login com o facebook
+- Implementar o componente de Photo
+    - quando o usuário logar com a rede social, obter a foto.
+    - adicionar uma possibilidade do usuário editar a foto no app
+- Implementar integração com o firebase
