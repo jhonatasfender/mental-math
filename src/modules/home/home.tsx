@@ -1,6 +1,7 @@
 import React from 'react';
-import { GestureResponderEvent, Image, SafeAreaView, ScrollView, Text, TextInput, TouchableOpacity, View } from 'react-native';
+import { GestureResponderEvent, Image, SafeAreaView, ScrollView, Text, TouchableOpacity, View } from 'react-native';
 import LinearGradient from 'react-native-linear-gradient';
+import CalculationsScreen from './calculations-screen/calculations-screen';
 import HeaderHome from './header/header';
 import { HomePropsInterface, HomeStateInterface } from './interfaces/InterfacesHome';
 import { styles } from "./style-home";
@@ -16,9 +17,7 @@ export default class Home extends React.Component<HomePropsInterface, HomeStateI
     }
 
     private clickOperation() {
-        const view = <>
-            <TextInput keyboardType="numeric" style={{ height: 40, borderColor: 'gray', borderWidth: 1 }} />
-        </>
+        const view = <CalculationsScreen />
         this.setState({ view })
     }
 
