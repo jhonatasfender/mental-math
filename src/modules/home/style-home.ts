@@ -88,4 +88,11 @@ export const styles = StyleSheet.create({
         color: '#ffffff',
         backgroundColor: 'transparent',
     },
+
+    container: {
+        paddingTop: 20,
+    },
+    box: {
+        margin: 10,
+    }
 });

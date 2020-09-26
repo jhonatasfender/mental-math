@@ -28,8 +28,11 @@ build/
 .gradle
 local.properties
 *.iml
+.classpath
+.project
+.settings
 
-# vscode 
+# vscode
 .vscode
 
 # node.js
@@ -67,3 +70,8 @@ buck-out/
 # Jest
 #
 .jest/
+
+# Files Project
+src/**/*.js
+App.js
+index.js

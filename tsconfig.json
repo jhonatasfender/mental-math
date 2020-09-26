@@ -1,12 +1,20 @@
 {
-  "compilerOptions": {
-    "target": "es5",
-    "resolveJsonModule": true,
-    "module": "commonjs",
-    "jsx": "react",
-    "strict": true,
-    "esModuleInterop": true,
-    "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true
-  }
+    "compilerOptions": {
+        "target": "es5",
+        "resolveJsonModule": true,
+        "module": "commonjs",
+        "jsx": "react",
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitAny": true,
+        "isolatedModules": true
+    },
+    "exclude": [
+        "node_modules",
+        "babel.config.js",
+        "metro.config.js",
+        "jest.config.js"
+    ]
 }

@@ -7,18 +7,23 @@ import styles, { BG_COLOR, keyStyle } from './styles';
 const numberKeys: NumberKeysInterface[][] = [
     [
         { mainText: '1', otherText: '' },
-        { mainText: '2', otherText: 'ABC' },
-        { mainText: '3', otherText: 'DEF' }
+        { mainText: '2', otherText: '' },
+        { mainText: '3', otherText: '' }
     ],
     [
-        { mainText: '4', otherText: 'GHI' },
-        { mainText: '5', otherText: 'JKL' },
-        { mainText: '6', otherText: 'MNO' }
+        { mainText: '4', otherText: '' },
+        { mainText: '5', otherText: '' },
+        { mainText: '6', otherText: '' }
     ],
     [
-        { mainText: '7', otherText: 'PQRS' },
-        { mainText: '8', otherText: 'TUV' },
-        { mainText: '9', otherText: 'WXYZ' }
+        { mainText: '7', otherText: '' },
+        { mainText: '8', otherText: '' },
+        { mainText: '9', otherText: '' }
+    ],
+    [
+        { mainText: '-', otherText: '' },
+        { mainText: '0', otherText: '' },
+        { mainText: '.', otherText: '' }
     ]
 ];
 
@@ -68,7 +73,7 @@ export default class KeyboardCustom extends Component<KeyboardProposInterface, {
             return keyStyle.bg_d2d5dc;
         }
 
-        return keyStyle.bgLess;
+        return keyStyle.bgLessL;
     }
 
     private clearBtnUnderlayColor() {
@@ -111,12 +116,12 @@ export default class KeyboardCustom extends Component<KeyboardProposInterface, {
 
     private renderDotKey() {
         if (this.props.disableDot !== true) {
-            let dotNode = null,
-                dotText = '';
+            let dotNode = null, dotText = '';
             if (this.isDecimalPad()) {
                 dotText = '.';
                 dotNode = <Text style={[keyStyle.mainText, keyStyle.dot]}>.</Text>;
             }
+
             return (
                 <TouchableHighlight
                     underlayColor="#ffffff"
@@ -147,15 +152,7 @@ export default class KeyboardCustom extends Component<KeyboardProposInterface, {
                     <View style={styles.row}>
                         {this.renderDotKey()}
 
-                        <TouchableHighlight
-                            underlayColor={BG_COLOR}
-                            style={keyStyle.wrapper}
-                            onPress={this.onPress.bind(this, '0')}
-                        >
-                            <View style={[keyStyle.bd, this.disableBorder()]}>
-                                <Text style={keyStyle.mainText}>0</Text>
-                            </View>
-                        </TouchableHighlight>
+                        {this.renderDotKey()}
 
                         <TouchableHighlight
                             underlayColor={this.clearBtnUnderlayColor()}
