@@ -1,7 +1,7 @@
 import React from 'react';
 import { GestureResponderEvent, Image, SafeAreaView, ScrollView, Text, TouchableOpacity, View } from 'react-native';
 import LinearGradient from 'react-native-linear-gradient';
-import MathView from 'react-native-math-view';
+// import MathView from 'react-native-math-view';
 import CalculationsScreen from './calculations-screen/calculations-screen';
 import { operations } from './configs/operations';
 import HeaderHome from './header/header';
@@ -29,7 +29,7 @@ export default class Home extends React.Component<HomePropsInterface, HomeStateI
             const { key, math, config, style } = operation
             view.push(
                 <TouchableOpacity key={key} style={{ ...styles.box, ...style }} onPress={e => this.clickOperation()}>
-                    <MathView math={math} />
+                    {/* <MathView math={math} /> */}
                 </TouchableOpacity>
             )
         }
